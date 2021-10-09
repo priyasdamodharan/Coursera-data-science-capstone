@@ -2,17 +2,12 @@
 
 This repository contains the relevant files used and created during the Data Science Capstone Project.
 
-The purpose of the project was to develop a data product that uses natural language processing to predict the next word a user may want to type. A shiny application serves as the final product for this project.
+This approach is based on the Markov Assumption, which states that each word in a string of text is only dependent on the previous N words. A set of four N-gram models has been built for this project:
 
 ## Application
-The Shiny app is available online: <a href="http://45.55.48.122/" target="_blank">here</a>.
+The Shiny app is available online: <a href="https://priyadamodharan.shinyapps.io/prediction-algorithm-of-next-word/" target="_blank">here</a>.
 ## Presentation
-The R Studio presentation is available online: <a href="http://rpubs.com/wowkazmir/547094" target="_blank">here</a>.
-
-## Other noteworthy documents
-
-* [Milestone Report](https://rpubs.com/wowkazmir/535853)
-* [Final Report](http://rpubs.com/wowkazmir/546921)
+The R Studio presentation is available online: <a href="https://rpubs.com/Priyadamo/819833" target="_blank">here</a>.
 
 Please refer the course website for further information on the project and the data science specialization.
 
