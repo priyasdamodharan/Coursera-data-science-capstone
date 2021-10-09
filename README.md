@@ -6,7 +6,7 @@ This repository contains the relevant files used and created during the Data Sci
 The purpose of the project was to develop a data product which uses natural language processing to predict the next word a user may want to type. A shiny application serves as the final product for this project.
 
 
-#Final Project Submission
+# Final Project Submission
 
 The goal for this final project assignment is to implement a learning model for text prediction. Using the text prediction algorithm, create a product in Shiny that provides a user interface that can be accessed by users.
 
@@ -14,7 +14,7 @@ This repository contains the ui.R and server.R source code files for the develop
 
 The Shiny application is hosted on shinyapps.io and the Presentation (slides) are available on RPubs.
 
-#Sources / References
+# Sources / References
 
 Profanity List - https://www.freewebheaders.com/full-list-of-bad-words-banned-by-google/ Was looking to download directly from Google but have not yet found that link.
 
